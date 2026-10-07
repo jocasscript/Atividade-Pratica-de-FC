@@ -1,3 +1,6 @@
+# Projeto Controle Financeiro
+# Discentes: Joaquim Gomes da Silva Neto e Beatriz Araujo Faustino
+
 renda_mensal = 0
 renda_informada = 0
 total_gastos = 0
